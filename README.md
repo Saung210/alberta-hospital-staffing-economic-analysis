@@ -1,6 +1,6 @@
 # Modeling Nurse Staffing and Cost Analysis During COVID-19
 
-This project focuses on modeling the **epidemiological and economic impact of nurse staffing decisions during COVID-19 waves**.
+This project models **nurse shortages and staffing strategies** during COVID-19 using real-world Alberta data. It evaluates how **redeployment and overtime policies impact hospital costs and workforce capacity** under different epidemic conditions.
 
 The objective is to estimate:
 - Nurse infection risk
