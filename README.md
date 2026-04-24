@@ -148,3 +148,12 @@ My main contributions focused on **data, modeling, and analysis**:
 - Wave duration and shape critically affect staffing strategies
 - When community infection risk is low, **full redeployment (100%) is the most cost-effective strategy**, as fewer nurses are infected and staffing gaps are manageable. However, this approach may require additional **training costs** for redeployed staff.
 - In contrast, during periods of higher infection risk, a **hybrid strategy (50% redeployment + 50% overtime)** performs better. This approach reduces the need for extensive training while maintaining workforce flexibility and minimizing overall disruption.
+---
+
+## 👥 Team
+ 
+- Saung Hnin Phyu
+- Samara Pires  
+- Anna Tam Ly
+- Yuke Hou
+- Xiangwen Gao
