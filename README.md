@@ -103,6 +103,21 @@ Purpose:
 - Identified key drivers of:
   - Infection spread
   - Cost escalation
+ 
+### 6. Power BI Dashboard
+- Developed interactive dashboards for healthcare workforce analysis
+- Visualized:
+  - Alberta hospitalization trends
+  - Alpha vs Omicron wave comparisons
+  - Weekly infection risk trends
+  - Staffing shortage projections
+  - Cost impacts under different staffing strategies
+- Added interactive filtering and data exploration features
+- Improved communication of complex modeling results
+- Supported:
+  - Data-driven healthcare decision-making
+  - Visual storytelling and reporting
+  - Accessibility of analytical insights
 
 ---
 ## 🛠️ Tools & Technologies
@@ -110,6 +125,7 @@ Purpose:
 - Python (Pandas, NumPy, Matplotlib)
 - MATLAB (modeling & simulations)
 - Jupyter Notebook
+- Power BI (Visulaization)
 - Real-world epidemiological datasets
 
 ---
@@ -134,6 +150,11 @@ My main contributions focused on **data, modeling, and analysis**:
 ### 🔹 Cost Analysis
 - Developed and implemented cost evaluation framework
 - Analyzed financial impact of nurse shortages and replacement strategies
+
+### 🔹 Power BI Dashboard Development
+- Added interactive Power BI visualizations
+- Built dashboards to present staffing, infection, and cost trends
+- Improved accessibility and communication of analytical insights
 
 ### 🔹 Team Support
 - Assisted teammates across modeling, debugging, and analysis tasks
